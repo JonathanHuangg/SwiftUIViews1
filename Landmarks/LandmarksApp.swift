@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+//Entryway for the code
 @main
 struct LandmarksApp: App {
     var body: some Scene {
